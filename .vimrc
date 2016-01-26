@@ -51,6 +51,10 @@ set history=700
 " enable scolling for vim inside iterm and mac terminal
 set mouse=a
 
+" Chonghao
+" show line number by default
+set number
+
 " Enable filetype plugins
 filetype plugin on
 filetype indent on
